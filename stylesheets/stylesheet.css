@@ -192,6 +192,7 @@ ul, ol, dl {
 
 logo a.button {
   width: 138px;
+  height: 500px;
   padding-left: 64px;
   display: block;
   background: transparent url(../images/1in_p.jpg) 0 0 no-repeat;
