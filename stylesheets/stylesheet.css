@@ -190,7 +190,7 @@ ul, ol, dl {
   margin-bottom: 20px;
 }
 
-logo a.button {
+#logo a.button {
   width: 138px;
   height: 500px;
   padding-left: 64px;
